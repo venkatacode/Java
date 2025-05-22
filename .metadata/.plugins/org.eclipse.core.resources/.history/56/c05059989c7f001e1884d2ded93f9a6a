@@ -1,0 +1,5 @@
+package com.infy.lamba;
+
+public interface Operation {
+
+}

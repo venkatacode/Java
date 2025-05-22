@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Apache Logging&apos; to &apos;log&apos;" description="Move &apos;Apache Logging&apos; to &apos;log&apos;" destination="log" element1="/ApacheLogging1641376389165/Apache Logging" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1699881330634" updateReferences="true"/>
+</session>
