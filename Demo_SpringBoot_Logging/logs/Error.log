@@ -1,0 +1,19 @@
+2023-12-01 12:56:31 [main] INFO  c.i.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 17.0.8.1 with PID 1216 (C:\Users\venkata.tadikonda\spring_Demos\Demo_SpringBoot_Logging\target\classes started by venkata.tadikonda in C:\Users\venkata.tadikonda\spring_Demos\Demo_SpringBoot_Logging)
+2023-12-01 12:56:31 [main] INFO  c.i.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2023-12-01 12:56:32 [main] INFO  c.i.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 0.969 seconds (process running for 1.856)
+2023-12-01 12:56:32 [main] ERROR c.i.service.CustomerLoginServiceImpl - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:27)
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17)
+	at com.infy.DemoSpringBootLoggingApplication.run(DemoSpringBootLoggingApplication.java:42)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.infy.DemoSpringBootLoggingApplication.main(DemoSpringBootLoggingApplication.java:30)
+2023-12-01 12:56:32 [main] ERROR c.i.DemoSpringBootLoggingApplication - Login denied. Invalid credentials.
+2023-12-01 12:56:42 [main] INFO  c.i.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 17.0.8.1 with PID 30400 (C:\Users\venkata.tadikonda\spring_Demos\Demo_SpringBoot_Logging\target\classes started by venkata.tadikonda in C:\Users\venkata.tadikonda\spring_Demos\Demo_SpringBoot_Logging)
+2023-12-01 12:56:42 [main] INFO  c.i.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2023-12-01 12:56:42 [main] INFO  c.i.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 0.862 seconds (process running for 1.733)
+2023-12-01 12:56:42 [main] INFO  c.i.DemoSpringBootLoggingApplication - Customer logged in successfully!!

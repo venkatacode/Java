@@ -1,0 +1,22 @@
+04-Jul-2023 12:48:14 ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:29) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.DemoSpringBootLog4jApplication.run(DemoSpringBootLog4jApplication.java:39) [classes/:?]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) [spring-boot-3.1.1.jar:3.1.1]
+	at com.infy.DemoSpringBootLog4jApplication.main(DemoSpringBootLog4jApplication.java:28) [classes/:?]
+01-Dec-2023 14:52:26 ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:29) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.DemoSpringBootLog4jApplication.run(DemoSpringBootLog4jApplication.java:39) [classes/:?]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) [spring-boot-3.1.1.jar:3.1.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) [spring-boot-3.1.1.jar:3.1.1]
+	at com.infy.DemoSpringBootLog4jApplication.main(DemoSpringBootLog4jApplication.java:28) [classes/:?]

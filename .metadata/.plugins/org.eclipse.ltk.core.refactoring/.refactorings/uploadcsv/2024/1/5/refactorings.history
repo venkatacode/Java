@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;study.csv&apos; to &apos;uploadcsv/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;uploadcsv&apos;&#x0D;&#x0A;- Destination element: &apos;uploadcsv/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;study.csv&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/" element1="src/main/java/com/dataentry/uploadcsv/controller/study.csv" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1706697985112" units="0" version="1.0"/>
+</session>

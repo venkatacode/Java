@@ -1,0 +1,21 @@
+
+05-Jul-2023 10:31:04 ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:26) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:32) [classes/:?]
+20-Nov-2023 15:47:29 ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:26) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:29) [classes/:?]
+20-Nov-2023 15:50:50 ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:26) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:29) [classes/:?]
+20-Nov-2023 15:50:52 ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyBankException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:26) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.ui.UserInterface.main(UserInterface.java:29) [classes/:?]
