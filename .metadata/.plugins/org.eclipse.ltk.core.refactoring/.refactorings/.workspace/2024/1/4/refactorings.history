@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Demo_SpringBoot_JPQL_Grouping&apos;" deleteContents="false" description="Delete resource &apos;Demo_SpringBoot_JPQL_Grouping&apos;" element1="/Demo_SpringBoot_JPQL_Grouping" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706080966779"/>&#x0A;<refactoring comment="Delete resource &apos;Demo_SpringBoot_JPQL_UpdateDelete&apos;" deleteContents="false" description="Delete resource &apos;Demo_SpringBoot_JPQL_UpdateDelete&apos;" element1="/Demo_SpringBoot_JPQL_UpdateDelete" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706080972800"/>
-</session>

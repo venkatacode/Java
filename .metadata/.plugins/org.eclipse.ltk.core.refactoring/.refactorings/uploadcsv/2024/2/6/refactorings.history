@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;StudyDto.java&apos; to &apos;uploadcsv/src/main/java/com.dataentry.uploadcsv.model&apos;&#x0D;&#x0A;- Original project: &apos;uploadcsv&apos;&#x0D;&#x0A;- Destination element: &apos;uploadcsv/src/main/java/com.dataentry.uploadcsv.model&apos;&#x0D;&#x0A;- Original element: &apos;com.dataentry.uploadcsv.model.StudyDto.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dataentry.uploadcsv.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dataentry.uploadcsv.model{StudyDto.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1707287939156" units="1" version="1.0"/>
-</session>
