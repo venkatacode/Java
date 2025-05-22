@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/venkata.tadikonda/Downloads/PropertiesJars/PropertiesJars/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.tadikonda/Downloads/PropertiesJars/PropertiesJars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.tadikonda/Downloads/PropertiesJars/PropertiesJars/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.tadikonda/Downloads/PropertiesJars/PropertiesJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venkata.tadikonda/Downloads/PropertiesJars/PropertiesJars/commons-text-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/venkata.tadikonda/.m2/repository/org/apache/commons/commons-configuration2/2.7/commons-configuration2-2.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/venkata.tadikonda/.m2/repository/org/apache/commons/commons-configuration2/2.7/commons-configuration2-2.7-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+			<attribute name="maven.artifactId" value="commons-configuration2"/>
+			<attribute name="maven.version" value="2.7"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
